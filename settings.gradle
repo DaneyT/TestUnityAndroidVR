@@ -1,0 +1,3 @@
+include ':app', ':unitygvr'
+include ':app', ':VRDroid-debug'
+include ':app', ':gvr'
